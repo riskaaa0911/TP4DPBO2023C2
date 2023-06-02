@@ -12,6 +12,7 @@ Download Kode PHP pada link yang telah disediakan.
 
 ## Desain dan Alur Program
 <img width="478" alt="database" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/f1cb1b4e-0116-4f1f-a983-19e6b6edb239">
+
 Program ini merupakan program PHP dengan menggunakan konsep MVC, pada program ini terdapat class Member dan Class Profesi yang berisi method untuk melakukan Create, Read, Update, dan Delete (CRUD) untuk data member dan data profesi. Pada database terdapat 2 tabel yaitu tabel members dan tabel profesi yang saling berelasi. Pada program ini, user dapat melihat data member dan profesi dalam bentuk tabel dan dapat menambah, menghapus, dan mengedit data-data tersebut. Terdapat form untuk melakukan edit dan add pada masing-masing tabel.
 
 ## Dokumentasi
