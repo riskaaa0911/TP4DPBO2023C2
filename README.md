@@ -14,6 +14,29 @@ Download Kode PHP pada link yang telah disediakan.
 
 
 ## Dokumentasi
+### Video Preview
 https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/37e88ee6-78f1-4119-bfd2-0afa5e8bc805
+
+### Screenshoot
+**Tabel Member**
+<img width="959" alt="tabel_members" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/27c60395-13e2-4a73-9f36-722c8d02dcb6">
+
+**Form Add Member**
+<img width="960" alt="add_member_form" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/8e67db96-d34f-41da-aafe-71204e3252cc">
+
+**Form Edit Member**
+<img width="957" alt="edit_member_form" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/35497cc2-608a-496b-8ab6-100c7eb782a8">
+
+**Tabel Profesi**
+<img width="960" alt="tabel_profesi" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/7bc3cad1-01b9-4385-922e-dfcbbad631d9">
+
+**Form Add Profesi**
+<img width="959" alt="add_profesi_form" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/3e34d9c5-e8a4-4423-995d-8bd4b46c5106">
+
+**Form Edit Profesi**
+<img width="960" alt="edit_profesi_form" src="https://github.com/riskaaa0911/TP4DPBO2023C2/assets/119839421/460e45ae-71c9-4251-b4d4-0fed57e473b8">
+
+
+
 
 
